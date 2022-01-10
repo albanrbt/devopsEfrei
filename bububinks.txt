@@ -1,9 +1,10 @@
-<<<<<<< HEAD
+
 gregor t nul
-=======
-<<<<<<< HEAD
+
 tondaron
-=======
+
 gnegnegne alban ilé bebete
->>>>>>> d37d3cf8d00847a613723ec383c36953efcdf884
->>>>>>> 6736c79d76a7355634014ea0fe07edf764a18c83
+
+
+serieusement il est vraiment bête
+
